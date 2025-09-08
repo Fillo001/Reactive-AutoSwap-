@@ -1,0 +1,21 @@
+reactive-autoswap/
+│── contracts/
+│   ├── Origin.sol
+│   ├── Reactive.sol
+│   └── Destination.sol
+│
+│── scripts/
+│   ├── deploy.js
+│   └── demo.js
+│
+│── test/
+│   └── workflow.test.js
+│
+│── frontend/        (optional if you want UI later)
+│
+│── .gitignore
+│── .replit
+│── replit.nix
+│── hardhat.config.js
+│── package.json
+│── README.md
